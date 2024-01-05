@@ -1,6 +1,6 @@
-import { Auction } from "./components/Auction";
 import { Bestseller } from "./components/Bestseller";
 import { Category } from "./components/Category";
+import { Footer } from "./components/Footer";
 import { Header } from "./components/Header";
 import { SortBlock } from "./components/SortBlock";
 import { Container } from "./components/UI/Container";
@@ -13,8 +13,8 @@ function App() {
         <SortBlock />
         <Category />
         <Bestseller />
-        {/* <Auction /> */}
       </Container>
+      <Footer />
     </div>
   );
 }
