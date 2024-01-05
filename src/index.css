@@ -7,6 +7,7 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   width: 1440px;
+  background-color: #f8faff;
 }
 
 code {
@@ -16,6 +17,7 @@ code {
 a {
   text-decoration: none;
 }
+
 p {
   margin: 0;
   padding: 0;
