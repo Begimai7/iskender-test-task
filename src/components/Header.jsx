@@ -1,9 +1,9 @@
 import React from "react";
 import { styled } from "styled-components";
-import logo from "../../assets/icons/logo.svg";
-import avatar from "../../assets/icons/avatar.svg";
-import cart from "../../assets/icons/cart.svg";
-import burger from "../../assets/icons/burger.svg";
+import logo from "../assets/icons/logo.svg";
+import avatar from "../assets/icons/avatar.svg";
+import cart from "../assets/icons/cart.svg";
+import burger from "../assets/icons/burger.svg";
 
 export const Header = () => {
   return (

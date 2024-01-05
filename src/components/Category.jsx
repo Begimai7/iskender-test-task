@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from "react";
-import { axiosInstance } from "../api";
+import { axiosInstance } from "../api/api";
 import { styled } from "styled-components";
 
 export const Category = () => {
