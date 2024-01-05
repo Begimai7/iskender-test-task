@@ -1,8 +1,9 @@
-import { Bestseller } from "./api/components/Bestseller";
-import { Category } from "./api/components/Category";
-import { Header } from "./api/components/Header";
-import { SortBlock } from "./api/components/SortBlock";
-import { Container } from "./api/components/UI/Container";
+import { Auction } from "./components/Auction";
+import { Bestseller } from "./components/Bestseller";
+import { Category } from "./components/Category";
+import { Header } from "./components/Header";
+import { SortBlock } from "./components/SortBlock";
+import { Container } from "./components/UI/Container";
 
 function App() {
   return (
@@ -12,6 +13,7 @@ function App() {
         <SortBlock />
         <Category />
         <Bestseller />
+        {/* <Auction /> */}
       </Container>
     </div>
   );
