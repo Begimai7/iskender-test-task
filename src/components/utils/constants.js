@@ -40,3 +40,17 @@ export const bestseller_data = [
     id: "5",
   },
 ];
+export const address = [
+  {
+    name: "ЭлитСтрой",
+    addres: "ул. Ден-Сяопина 18/1",
+  },
+  {
+    name: "Баткен",
+    addres: "ул. Ден-Сяопина 18/1",
+  },
+  {
+    name: "ТааТан",
+    addres: "ул. Ден-Сяопина 18/1",
+  },
+];
